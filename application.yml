@@ -1,0 +1,11 @@
+name : outside resoure directory
+address: application.yml
+
+spring:
+  profiles:
+    include:
+      - scheduling
+      - persistence
+
+
+

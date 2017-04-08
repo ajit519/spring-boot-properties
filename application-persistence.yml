@@ -1,0 +1,6 @@
+DB:
+    dialect : SybaseDialect
+martin:
+    name: Martin D'vloper 1234
+    job: Developer7898
+    skill: Elite09988
